@@ -9,7 +9,7 @@
 ## 🔧 Skills & Tools  
 ### **Programming Languages**:  
 <div align="left">
- - **Python**
+ - Python
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
 </div>
  - **C++**  
