@@ -4,6 +4,7 @@
 
 ## 👩🏻‍🎓 About Me
 ⭐️ I’m a _First Year B.Tech Student_ with a passion for tech and innovation. 
+
 🚀 Exploring new fields, building projects, and always eager to learn and collaborate!
 
 ## 🔧 Skills & Tools
@@ -16,7 +17,9 @@
 
 ## 🌱 Currently Learning
 💻 Gaining hands-on experience with relational databases.
+
 🔎 Exploring more UI/UX design with Figma
+
 📚 Deepening my understanding of object-oriented programming.
 
 ## 📬 Connect with Me
