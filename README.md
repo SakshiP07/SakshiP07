@@ -6,12 +6,15 @@
 ⭐️ I’m a _First Year B.Tech Student_ with a passion for tech and innovation.  
 🚀 Exploring new fields, building projects, and always eager to learn and collaborate!
 
-## 🔧 Skills & Tools
-- **Programming Languages**:
-**Python**, **C++**
-- **Version Control**:
-**Git**, **GitHub**,
-- **Tools**:
+## 🔧 Skills & Tools  
+### **Programming Languages**:  
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+</div>  
+### **Version Control**:
+**Git**, **GitHub**  
+### **Tools**:
 **VS Code**, **Figma**
 
 ## 🌱 Currently Learning
