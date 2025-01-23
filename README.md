@@ -1,6 +1,6 @@
-## Hi there,I'm Sakshi Pokhriyal!👋
+# Hi there,I'm Sakshi Pokhriyal!👋
 
-# Welcome to My GitHub Profile! 👋
+## Welcome to My GitHub Profile! 👋
 
 ## 👩🏻‍🎓 About Me
 ⭐️ I’m a _First Year B.Tech Student_ with a passion for tech and innovation.  
