@@ -3,8 +3,7 @@
 # Welcome to My GitHub Profile! 👋
 
 ## 👩🏻‍🎓 About Me
-⭐️ I’m a _First Year B.Tech Student_ with a passion for tech and innovation. 
-
+⭐️ I’m a _First Year B.Tech Student_ with a passion for tech and innovation.  
 🚀 Exploring new fields, building projects, and always eager to learn and collaborate!
 
 ## 🔧 Skills & Tools
