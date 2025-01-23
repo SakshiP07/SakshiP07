@@ -8,16 +8,16 @@
 
 ## 🔧 Skills & Tools
 - **Programming Languages**:
-  **Python**, **C++**
+-**Python**, **C++**
 - **Version Control**:
-  **Git**, **GitHub**,
+-**Git**, **GitHub**,
 - **Tools**:
-  **VS Code**, **Figma**
+-**VS Code**, **Figma**
 
 ## 🌱 Currently Learning
-💻 Gaining hands-on experience with relational databases.
-🔎 Exploring more UI/UX design with Figma
-📚 Deepening my understanding of object-oriented programming.
+-💻 Gaining hands-on experience with relational databases.
+-🔎 Exploring more UI/UX design with Figma
+-📚 Deepening my understanding of object-oriented programming.
 
 ## 📬 Connect with Me
 - **[LinkedIn](https://www.linkedin.com/in/sakshi-pokhriyal/)**
