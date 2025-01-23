@@ -22,5 +22,5 @@
 ## 📬 Connect with Me
 - **[LinkedIn](https://www.linkedin.com/in/sakshi-pokhriyal/)**
 
-Feel free to check out my repositories and reach out if you want to collaborate or just chat about tech! 🚀
+*Feel free to check out my repositories and reach out if you want to collaborate or just chat about tech! 🚀*
 
