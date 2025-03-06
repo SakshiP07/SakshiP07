@@ -18,7 +18,7 @@
 ## 🌱 Currently Learning
 - 💻 Gaining hands-on experience with relational databases.
 - 🔎 Exploring more UI/UX design with Figma
-- 📚 Deepening my understanding of object-oriented programming.**
+- 📚 Deepening my understanding of object-oriented programming.
 
 ## 📬 Connect with Me
 - **[LinkedIn](https://www.linkedin.com/in/sakshi-pokhriyal/)**
