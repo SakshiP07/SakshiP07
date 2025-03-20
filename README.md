@@ -22,14 +22,9 @@
 ### 🎨 **Frontend Development**  
 > *"Bringing pixels to life!"*  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" height="60" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind" height="60" />
 </p>
 
-### 🔧 **Backend & Databases**  
-> *"Powering up the server-side!"*  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb" height="60" />
-</p>
 
 ### 🎮 **UI/UX & Design Tools**  
 > *"Making interfaces that feel like a game!"*  
