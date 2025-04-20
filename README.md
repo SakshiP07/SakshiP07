@@ -79,6 +79,9 @@
 </div>
 
 ---
+<p align="center">
+  <img src="https://github.com/Sakshi070915/Sakshi070915/blob/main/Assets/line-purple.gif?raw=true" alt="Glowing Divider" width="100%" />
+</p>
 
 ### 🌱 *Currently Learning*  
 <div align="left">
