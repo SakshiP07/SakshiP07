@@ -41,15 +41,18 @@
 
 ### 📊 GitHub Stats
 
+<br>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sakshi070915&show_icons=true&theme=dark&hide_border=true&count_private=true" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SakshiP07&show_icons=true&theme=dark&hide_border=true&count_private=true" width="50%" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshi070915&layout=compact&theme=dark&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakshiP07&layout=compact&theme=dark&hide_border=true" width="45%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sakshi070915&theme=dark" width="70%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SakshiP07&theme=dark" width="70%" />
 </p>
+
+<br>
 
 ---
 
