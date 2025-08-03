@@ -1,16 +1,15 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3000&pause=1000&color=00BFA6&center=true&vCenter=true&width=600&lines=Hello!+I'm+Sakshi+Pokhriyal+%F0%9F%91%8B;Welcome+to+my+GitHub+profile" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3000&pause=1000&color=00FFC6&center=true&vCenter=true&width=600&lines=Hello!+I'm+Sakshi+Pokhriyal+%F0%9F%91%8B;Welcome+to+my+GitHub+profile" alt="Typing SVG">
 </p>
+
+
 
 ---
 
 ### ⚡ About Me
 
-- 🎓 First-year B.Tech CSE student  
-- 💡 Passionate about technology, design & innovation  
-- 🔨 Building strong fundamentals in development & problem-solving  
-- 🎨 Love mixing code with creativity through tools & UI/UX  
-- 🌱 Always learning, collaborating, and exploring
+Hi, I'm a second-year B.Tech CSE student with a strong interest in technology and innovation. I'm focused on building a solid foundation in development and problem-solving, and I enjoy exploring how creativity and logic intersect in real-world applications. I’m continuously learning, working on meaningful projects, and collaborating to grow both technically and personally.
+
 
 ---
 
@@ -30,12 +29,19 @@
 
 ---
 
-### 🌱 Currently Exploring
+### 📘 Currently Exploring
 
-- 🪄 **HTML & CSS** — Building the magic  
-- 🎨 **UI/UX Design** — Creating with Figma  
-- 🧠 **OOPs in Java/C++** — Thinking in objects  
-- 🧩 **Problem Solving** — Coding challenges & logic building
+- **HTML, CSS & JavaScript**  
+  Building strong foundations in front-end web development.
+
+- **Object-Oriented Programming (Java & C++)**  
+  Developing modular and maintainable code using OOP principles.
+
+- **Data Structures & Algorithms**  
+  Enhancing problem-solving skills through structured coding practice.
+
+- **Git & Version Control**  
+  Managing code efficiently and collaborating on projects.
 
 ---
 
@@ -72,11 +78,14 @@
   </a>
 </p>
 
-<p align="center"><em>🚀 Open to internships, tech collabs, and learning journeys!</em></p>
+<p align="center"><em>🌱  Eager to learn, build, and collaborate on exciting tech projects 🌱</em></p>
+
 
 ---
 
 <h3 align="center">
-  ⭐ Thanks for stopping by!  
-  <br/> Let’s build something great together 💫
+  Thanks for visiting my profile  
+  <br/> Let’s connect and create something impactful 🤝
 </h3>
+
+
