@@ -78,7 +78,7 @@ Hi, I'm a second-year B.Tech CSE student with a strong interest in technology an
   </a>
 </p>
 
-<p align="center"><em>🌱  Eager to learn, build, and collaborate on exciting tech projects 🌱</em></p>
+<p align="center"><em>Eager to learn, build, and collaborate on exciting tech projects </em></p>
 
 
 ---
